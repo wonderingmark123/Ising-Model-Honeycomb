@@ -7,7 +7,12 @@ The matlab live script files (.mlx) are example to run the code for different ki
 If you want to simulate the lattice with impurity and defect lattice, replace initSpins with initSpinsImpurity in your simulation.
 
 # Results
-
+regular Hexagon lattice:
+<img src="./Figures/RawData.svg">
+Honeycomb lattice with impurity:
+<img src="./Figures/Impurity.svg">
+Honeycomb lattice with missing spins:
+<img src=".\\Figures\\Defect.svg">
 
 
 
